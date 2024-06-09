@@ -80,7 +80,7 @@ library
                        Data.TypeRepMap.Internal
 
   build-depends:       ghc-prim >= 0.10 && < 0.13
-                     , primitive ^>= 0.9.1
+                     , primitive ^>= 0.8.0
                      , deepseq ^>= 1.4
 
 library typerep-extra-impls
